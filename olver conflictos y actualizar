@@ -1,0 +1,30 @@
+* [33m6d70182[m[33m ([m[1;31morigin/main[m[33m)[m Actualizar submódulo KarolNathaliaGalvisRodriguez
+* [33mffc01bf[m agg
+*   [33m785de5a[m Resolver conflictos de renombramiento y eliminación de archivos
+[32m|[m[33m\[m  
+* [33m|[m [33m834688f[m Actualizar
+[33m|[m [33m|[m * [33m10dfe9f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Actualizar carpeta
+[33m|[m [33m|[m[33m/[m  
+[33m|[m * [33mc01faad[m Añadir Talleres
+[33m|[m * [33me9f8e9e[m Carpeta arreglada
+[33m|[m *   [33m205cb80[m Merge branch 'main' of https://github.com/natha2r/MujeresDigitales Cambios
+[33m|[m [35m|[m[36m\[m  
+[33m|[m [35m|[m * [33mc92567e[m Delete Taller2
+[33m|[m [35m|[m * [33m9cd306c[m Delete Taller 1
+[33m|[m * [36m|[m [33mb62adb5[m Añadir Talleres 1 y 2
+[33m|[m [36m|[m[36m/[m  
+[33m|[m * [33md9b26bf[m Eliminando carpeta Talleres
+[33m|[m *   [33m79ead8e[m Merge branch 'main' of https://github.com/natha2r/MujeresDigitales
+[33m|[m [1;31m|[m[1;32m\[m  
+[33m|[m [1;31m|[m *   [33m781232e[m Merge branch 'main' of https://github.com/natha2r/MujeresDigitales
+[33m|[m [1;31m|[m [1;33m|[m[1;34m\[m  
+[33m|[m [1;31m|[m [1;33m|[m * [33m1d3ab1f[m Update app.js
+[33m|[m [1;31m|[m [1;33m|[m * [33m8ee0f57[m Update feliz.html
+[33m|[m [1;31m|[m[33m_[m[1;33m|[m[33m/[m  
+[33m|[m[33m/[m[1;31m|[m [1;33m|[m   
+* [1;31m|[m [1;33m|[m [33m3975293[m Agregada nueva carpeta con Taller 1
+* [1;31m|[m [1;33m|[m [33mf6bcf41[m Primer commit
+* [1;31m|[m [1;33m|[m [33mfb9ed4b[m Inicio Proyecto
+ [1;31m/[m [1;33m/[m  
+[1;31m|[m * [33m1b4db4e[m Primer commit: proyecto tienda
+* [33m26ee6cf[m Añadir Taller2 dentro de Talleres
