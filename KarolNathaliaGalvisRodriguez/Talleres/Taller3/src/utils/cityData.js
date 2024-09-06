@@ -1,0 +1,18 @@
+export const cityData = [
+  { city: "Bogotá", temperature: 15 },
+  { city: "Medellín", temperature: 21 },
+  { city: "Cali", temperature: 24 },
+  { city: "Cartagena", temperature: 29 },
+  { city: "Barranquilla", temperature: 28 },
+  { city: "Bucaramanga", temperature: 23 },
+  { city: "Pereira", temperature: 21 },
+  { city: "Santa Marta", temperature: 30 },
+  { city: "Cúcuta", temperature: 27 },
+  { city: "Manizales", temperature: 18 },
+  { city: "Armenia", temperature: 21 },
+  { city: "Ibagué", temperature: 22 },
+  { city: "Neiva", temperature: 26 },
+  { city: "Sincelejo", temperature: 27 },
+  { city: "Tumaco", temperature: 29 },
+  { city: "Stockholm", temperature: -2 },
+];
