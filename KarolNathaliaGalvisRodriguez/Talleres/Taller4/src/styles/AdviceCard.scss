@@ -1,0 +1,30 @@
+@import "./variables";
+
+.advice-card {
+  background-color: $dark-grayish-blue;
+  color: $light-cyan;
+  padding: 50px;
+  border-radius: 20px;
+  text-align: center;
+  width: 100%;
+  max-width: 500px;
+  box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.2);
+  margin-bottom: 50px;
+  position: relative;
+  font-family: $font-family;
+  padding-bottom: 90px;
+
+  .advice-number {
+    font-size: 14px;
+    letter-spacing: 5px;
+    color: $neon-green;
+    margin-bottom: 10px;
+  }
+
+  .advice-text {
+    font-size: 28px;
+    line-height: 1.5;
+    margin-bottom: 50px;
+    letter-spacing: 1px;
+  }
+}

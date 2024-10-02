@@ -1,0 +1,31 @@
+@import "./variables";
+
+.button-container {
+  position: absolute;
+  bottom: -25px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  justify-content: center;
+  width: 50%;
+  gap: 20px;
+  padding-top: 60px;
+  margin-top: 50px;
+}
+
+.advice-button {
+  background-color: $neon-green;
+  border: none;
+  cursor: pointer;
+  font-size: 30px;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  transition: background-color 0.3s ease, box-shadow 0.2s ease;
+  position: relative;
+  color: $dark-blue;
+}
+
+.advice-button:hover {
+  box-shadow: 0 0 20px $neon-green;
+}
